@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1693894628047" transient="false">
+	<site updateable="true" url="platform:/base/" enabled="true" policy="USER-EXCLUDE">
+		<feature id="org.eclipse.ecf.core.feature" version="1.6.1.v20230507-1923" url="features/org.eclipse.ecf.core.feature_1.6.1.v20230507-1923/">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.ssl.feature" version="1.1.401.v20230422-0242" url="features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.401.v20230422-0242/">
+		</feature>
+		<feature id="org.eclipse.emf.edit.ui" version="2.25.0.v20230211-1150" url="features/org.eclipse.emf.edit.ui_2.25.0.v20230211-1150/">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.httpclient5.feature" version="1.1.701.v20230423-0417" url="features/org.eclipse.ecf.filetransfer.httpclient5.feature_1.1.701.v20230423-0417/">
+		</feature>
+		<feature id="org.eclipse.emf.common.ui" version="2.20.0.v20230211-1150" url="features/org.eclipse.emf.common.ui_2.20.0.v20230211-1150/">
+		</feature>
+		<feature id="org.eclipse.emf.common" version="2.30.0.v20230810-0713" url="features/org.eclipse.emf.common_2.30.0.v20230810-0713/">
+		</feature>
+		<feature id="org.eclipse.rcp" version="4.29.0.v20230903-1000" url="features/org.eclipse.rcp_4.29.0.v20230903-1000/">
+		</feature>
+		<feature id="org.eclipse.emf.edit" version="2.20.0.v20230828-0616" url="features/org.eclipse.emf.edit_2.20.0.v20230828-0616/">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.core.feature" version="1.6.1900.v20230814-2013" url="features/org.eclipse.equinox.p2.core.feature_1.6.1900.v20230814-2013/">
+		</feature>
+		<feature id="org.eclipse.e4.rcp" version="4.29.0.v20230825-1346" url="features/org.eclipse.e4.rcp_4.29.0.v20230825-1346/">
+		</feature>
+		<feature id="org.eclipse.justj.openjdk.hotspot.jre.minimal.stripped" version="17.0.8.v20230831-1047" url="features/org.eclipse.justj.openjdk.hotspot.jre.minimal.stripped_17.0.8.v20230831-1047/">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.feature" version="3.14.1800.v20230422-0242" url="features/org.eclipse.ecf.filetransfer.feature_3.14.1800.v20230422-0242/">
+		</feature>
+		<feature id="org.eclipse.oomph.setup.installer" version="1.30.0.v20230903-1000" url="features/org.eclipse.oomph.setup.installer_1.30.0.v20230903-1000/">
+		</feature>
+		<feature id="org.eclipse.ecf.core.ssl.feature" version="1.1.501.v20230507-1921" url="features/org.eclipse.ecf.core.ssl.feature_1.1.501.v20230507-1921/">
+		</feature>
+		<feature id="org.eclipse.oomph.p2" version="1.27.0.v20230828-1517" url="features/org.eclipse.oomph.p2_1.27.0.v20230828-1517/">
+		</feature>
+		<feature id="org.eclipse.emf.ecore" version="2.35.0.v20230829-0934" url="features/org.eclipse.emf.ecore_2.35.0.v20230829-0934/">
+		</feature>
+	</site>
+</config>
