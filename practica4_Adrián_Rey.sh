@@ -34,6 +34,7 @@ apt install -y $packagename
 echo "El paquete $packagename ha sido instalado"
 else
 echo "El paquete $packagename ha sido actualizado"
+# Si pones install a un paquete ya instalado este se actualiza en vez que instalar
 fi
 ;;
 status|s)
