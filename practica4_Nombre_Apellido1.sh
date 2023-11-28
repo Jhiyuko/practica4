@@ -33,7 +33,7 @@ if [ $INSTALADO -eq 0 ]; then
 apt install -y $packagename
 echo "El paquete $packagename ha sido instalado"
 else
-echo "El paquete $packagename ya está instalado"
+echo "El paquete $packagename ha sido actualizado"
 fi
 ;;
 status|s)
