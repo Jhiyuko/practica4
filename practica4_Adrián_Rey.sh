@@ -33,6 +33,7 @@ if [ $INSTALADO -eq 0 ]; then
 apt install -y $packagename
 echo "El paquete $packagename ha sido instalado"
 else
+apt install -y $packagename
 echo "El paquete $packagename ha sido actualizado"
 # Si pones install a un paquete ya instalado este se actualiza en vez que instalar
 fi
