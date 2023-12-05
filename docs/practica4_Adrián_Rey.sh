@@ -7,7 +7,7 @@ if [ $# -eq 0 ]; then
 show_ayuda
 exit 1
 fi
-FICHERO='/home/$USER/Downloads/paquetes.txt'
+FICHERO='/home/$USER/Descargas/paquetes.txt'
 if [ ! -f $FICHERO ] || [ ! -r $FICHERO ]; then
 echo "El fichero $FICHERO no existe o no se puede leer"
 exit 2
